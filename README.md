@@ -6,7 +6,6 @@
 - 自我介绍：`_pages/about.md`
 - 站点配置（姓名、邮箱、侧边栏信息、头像文件名）：`_config.yml`
 - 导航栏菜单：`_data/navigation.yml`
-- 简历页面：`_pages/cv.md`
 - 头像图片：`images/profile.jpg`（替换成自己的照片即可）
 
 ## 常用操作
