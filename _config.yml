@@ -23,7 +23,7 @@ repository               : "Luyue0926/luyue0926.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Luyue He 何鲁越"
   pronouns         : # example: "she/her"
   bio              : # Short biography for the left-hand sidebar
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
