@@ -9,8 +9,7 @@ redirect_from:
 
 ## Taste of My Science Dream
 Now I am pursuing my master's degree in optical engineering at Beihang University under the supervision of Xiong Pan (Research Professor). 
-My research interest starts from inverse design, using powerful computers or AI tools to help us design photonic devices, 
-and then extends from optical computing (a kind of edge intelligence) to real hardware intelligence (still my vision, not begun yet).
+My research journey began with inverse design — using powerful computers and AI tools to design photonic devices — and then extended from optical computing, as a hardware substrate for edge intelligence, toward a broader vision of intelligent computing hardware (still my vision, not begun yet).
 
 Email: sy2417101@buaa.edu.cn
 
