@@ -29,5 +29,5 @@ and good engineers to teach me how to do science research.
 ## News
 
 - **[2026.09.30]** I am going to leave Tsinghua University. During these months, I constructed a differentiable model of the scattering and coupling system, and met many outstanding people. I wish them all the best, today and always. On my last day, I saw this beautiful scenery. <br> <a href="/images/2026.0930.jpg"><img src="/images/2026.0930.jpg" width="400"></a> <br> <a href="/images/2026.0930_wanxian.jpg"><img src="/images/2026.0930_wanxian.jpg" width="400"></a>
-- **[2026.08.15]** I accepted the offer from Prof. Fan Wu, a patient and interesting teacher. I am looking forward to doing research with him.
-- **[2026.07.01]** I started to be a visiting student at Tsinghua University, collaborating with Prof. Chao Wang and Prof. Chenchen Deng.
+- **[2026.08.15]** I accepted the offer from Prof. Fan Wu, a patient and interesting teacher at Westlake University. I am going to be a Ph.D. applicant there. Good luck to me! I am looking forward to doing research with him.
+- **[2026.07.01]** I started to be a visiting student at Tsinghua University, collaborating with Prof. Wang and Prof. Deng.
